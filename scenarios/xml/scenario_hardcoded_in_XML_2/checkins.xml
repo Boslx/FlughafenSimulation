@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<settings>
+    <checkindesk>
+        <label>Check-InDesk</label>
+        <troughput>3</troughput>
+        <x_position>300</x_position>
+        <y_position>100</y_position>
+        <view>
+            <image>symbols/stations/72x72/CheckIn.png</image>
+        </view>
+        <inqueue>
+            <x_position>320</x_position>
+            <y_position>40</y_position>
+        </inqueue>
+        <outqueue>
+            <x_position>320</x_position>
+            <y_position>180</y_position>
+        </outqueue>
+    </checkindesk>
+</settings>

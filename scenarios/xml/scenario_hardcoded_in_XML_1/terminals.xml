@@ -1,0 +1,37 @@
+<?xml version="1.0"?>
+<settings>
+	<terminal>
+		<label>PublicTerminal</label>
+		<troughput>100</troughput>
+		<x_position>200</x_position>
+		<y_position>300</y_position>
+		<view>
+			<image>symbols/stations/72x72/FlightInformation.png</image>
+		</view>
+		<inqueue>
+			<x_position>220</x_position>
+			<y_position>240</y_position>
+		</inqueue>
+		<outqueue>
+			<x_position>220</x_position>
+			<y_position>380</y_position>
+		</outqueue>
+	</terminal>
+	<terminal>
+		<label>AirTerminal</label>
+		<troughput>100</troughput>
+		<x_position>700</x_position>
+		<y_position>300</y_position>
+		<view>
+			<image>symbols/stations/72x72/FlightInformation.png</image>
+		</view>
+		<inqueue>
+			<x_position>720</x_position>
+			<y_position>240</y_position>
+		</inqueue>
+		<outqueue>
+			<x_position>720</x_position>
+			<y_position>380</y_position>
+		</outqueue>
+	</terminal>
+</settings>

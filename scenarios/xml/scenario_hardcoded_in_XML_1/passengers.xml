@@ -1,0 +1,289 @@
+<?xml version="1.0"?>
+<settings>
+	<passenger>
+		<label>Cordula Grün</label>
+		<processtime>9</processtime>
+		<speed>3</speed>
+		<luggage_description>roter Koffer</luggage_description>
+		<flightnumber>LH 6315</flightnumber>
+		<onlinecheckin>false</onlinecheckin>
+		<randomized>false</randomized>
+		<sequence>
+			<station>Start_Station</station>
+			<station>PublicTerminal</station>
+			<station>Gastronomy_1</station>
+			<station>PublicTerminal</station>
+			<station>Check-InDesk</station>
+			<station>PublicTerminal</station>
+			<station>{Security-Check_1, Security-Check_2}</station>
+			<station>AirTerminal</station>
+			<station>DutyFreeShopping</station>
+			<station>AirTerminal</station>
+			<station>SecureBoardingGate</station>
+			<station>InternationalPlane</station>
+		</sequence>
+	</passenger>
+	<passenger>
+		<label>Max Mustermann</label>
+		<processtime>24</processtime>
+		<speed>8</speed>
+		<luggage_description>Orangener Koffer</luggage_description>
+		<flightnumber>LH 6315</flightnumber>
+		<onlinecheckin>false</onlinecheckin>
+		<randomized>false</randomized>
+		<sequence>
+			<station>Start_Station</station>
+			<station>PublicTerminal</station>
+			<station>Check-InDesk</station>
+			<station>PublicTerminal</station>
+			<station>{Security-Check_1, Security-Check_2}</station>
+			<station>AirTerminal</station>
+			<station>Gastronomy_2</station>
+			<station>AirTerminal</station>
+			<station>SecureBoardingGate</station>
+			<station>InternationalPlane</station>
+		</sequence>
+	</passenger>
+	<passenger>
+		<label>Erika Mustermann</label>
+		<processtime>28</processtime>
+		<speed>2</speed>
+		<luggage_description>Lila Travelrucksack</luggage_description>
+		<flightnumber>LH 6315</flightnumber>
+		<onlinecheckin>true</onlinecheckin>
+		<randomized>false</randomized>
+		<sequence>
+			<station>Start_Station</station>
+			<station>PublicTerminal</station>
+			<station>OnlineCheckIn</station>
+			<station>PublicTerminal</station>
+			<station>Shopping</station>
+			<station>PublicTerminal</station>
+			<station>{Security-Check_1, Security-Check_2}</station>
+			<station>AirTerminal</station>
+			<station>DutyFreeShopping</station>
+			<station>AirTerminal</station>
+			<station>SecureBoardingGate</station>
+			<station>InternationalPlane</station>
+		</sequence>
+	</passenger>
+	<passenger>
+		<label>Gregor Dietrich</label>
+		<processtime>5</processtime>
+		<speed>20</speed>
+		<luggage_description>roter Koffer</luggage_description>
+		<flightnumber>LH 6315</flightnumber>
+		<onlinecheckin>true</onlinecheckin>
+		<randomized>false</randomized>
+		<sequence>
+			<station>Start_Station</station>
+			<station>PublicTerminal</station>
+			<station>OnlineCheckIn</station>
+			<station>PublicTerminal</station>
+			<station>{Security-Check_1, Security-Check_2}</station>
+			<station>AirTerminal</station>
+			<station>Gastronomy_2</station>
+			<station>AirTerminal</station>
+			<station>DutyFreeShopping</station>
+			<station>AirTerminal</station>
+			<station>SecureBoardingGate</station>
+			<station>InternationalPlane</station>
+		</sequence>
+	</passenger>
+	<passenger>
+		<label>Peter Peter</label>
+		<processtime>19</processtime>
+		<speed>11</speed>
+		<luggage_description>gelb Koffer</luggage_description>
+		<flightnumber>LH 6315</flightnumber>
+		<onlinecheckin>true</onlinecheckin>
+		<randomized>false</randomized>
+		<sequence>
+			<station>Start_Station</station>
+			<station>PublicTerminal</station>
+			<station>Shopping</station>
+			<station>PublicTerminal</station>
+			<station>OnlineCheckIn</station>
+			<station>PublicTerminal</station>
+			<station>{Security-Check_1, Security-Check_2}</station>
+			<station>AirTerminal</station>
+			<station>SecureBoardingGate</station>
+			<station>InternationalPlane</station>
+		</sequence>
+	</passenger>
+	<passenger>
+		<label>Hans Peter</label>
+		<processtime>1</processtime>
+		<speed>13</speed>
+		<luggage_description>lila Tasche</luggage_description>
+		<flightnumber>LH 6315</flightnumber>
+		<onlinecheckin>false</onlinecheckin>
+		<randomized>false</randomized>
+		<sequence>
+			<station>Start_Station</station>
+			<station>PublicTerminal</station>
+			<station>Gastronomy_1</station>
+			<station>PublicTerminal</station>
+			<station>Check-InDesk</station>
+			<station>PublicTerminal</station>
+			<station>{Security-Check_1, Security-Check_2}</station>
+			<station>AirTerminal</station>
+			<station>SecureBoardingGate</station>
+			<station>InternationalPlane</station>
+		</sequence>
+	</passenger>
+	<passenger>
+		<label>Santa Claus</label>
+		<processtime>15</processtime>
+		<speed>1</speed>
+		<luggage_description>gruener Koffer</luggage_description>
+		<flightnumber>LH 6315</flightnumber>
+		<onlinecheckin>true</onlinecheckin>
+		<randomized>false</randomized>
+		<sequence>
+			<station>Start_Station</station>
+			<station>PublicTerminal</station>
+			<station>OnlineCheckIn</station>
+			<station>PublicTerminal</station>
+			<station>{Security-Check_1, Security-Check_2}</station>
+			<station>AirTerminal</station>
+			<station>Gastronomy_2</station>
+			<station>AirTerminal</station>
+			<station>SecureBoardingGate</station>
+			<station>InternationalPlane</station>
+		</sequence>
+	</passenger>
+	<passenger>
+		<label>Dennis Peter</label>
+		<processtime>8</processtime>
+		<speed>12</speed>
+		<luggage_description>gruener Koffer</luggage_description>
+		<flightnumber>LH 6315</flightnumber>
+		<onlinecheckin>true</onlinecheckin>
+		<randomized>false</randomized>
+		<sequence>
+			<station>Start_Station</station>
+			<station>PublicTerminal</station>
+			<station>OnlineCheckIn</station>
+			<station>PublicTerminal</station>
+			<station>Gastronomy_1</station>
+			<station>PublicTerminal</station>
+			<station>{Security-Check_1, Security-Check_2}</station>
+			<station>AirTerminal</station>
+			<station>SecureBoardingGate</station>
+			<station>InternationalPlane</station>
+		</sequence>
+	</passenger>
+	<passenger>
+		<label>Siegfried Dichter</label>
+		<processtime>1</processtime>
+		<speed>10</speed>
+		<luggage_description>grauer Koffer</luggage_description>
+		<flightnumber>LH 6315</flightnumber>
+		<onlinecheckin>false</onlinecheckin>
+		<randomized>false</randomized>
+		<sequence>
+			<station>Start_Station</station>
+			<station>PublicTerminal</station>
+			<station>Check-InDesk</station>
+			<station>PublicTerminal</station>
+			<station>{Security-Check_1, Security-Check_2}</station>
+			<station>AirTerminal</station>
+			<station>SecureBoardingGate</station>
+			<station>InternationalPlane</station>
+		</sequence>
+	</passenger>
+	<passenger>
+		<label>Cordula Gelb</label>
+		<processtime>11</processtime>
+		<speed>4</speed>
+		<luggage_description>roter Koffer</luggage_description>
+		<flightnumber>LH 6315</flightnumber>
+		<onlinecheckin>false</onlinecheckin>
+		<randomized>false</randomized>
+		<sequence>
+			<station>Start_Station</station>
+			<station>PublicTerminal</station>
+			<station>Shopping</station>
+			<station>PublicTerminal</station>
+			<station>Check-InDesk</station>
+			<station>PublicTerminal</station>
+			<station>{Security-Check_1, Security-Check_2}</station>
+			<station>AirTerminal</station>
+			<station>DutyFreeShopping</station>
+			<station>AirTerminal</station>
+			<station>Gastronomy_2</station>
+			<station>AirTerminal</station>
+			<station>SecureBoardingGate</station>
+			<station>InternationalPlane</station>
+		</sequence>
+	</passenger>
+	<passenger>
+		<label>Jochen Schweiz</label>
+		<processtime>2</processtime>
+		<speed>1</speed>
+		<luggage_description>weißer Koffer</luggage_description>
+		<flightnumber>LH 6315</flightnumber>
+		<onlinecheckin>false</onlinecheckin>
+		<randomized>false</randomized>
+		<sequence>
+			<station>Start_Station</station>
+			<station>PublicTerminal</station>
+			<station>Gastronomy_1</station>
+			<station>PublicTerminal</station>
+			<station>Check-InDesk</station>
+			<station>PublicTerminal</station>
+			<station>PublicTerminal</station>
+			<station>{Security-Check_1, Security-Check_2}</station>
+			<station>AirTerminal</station>
+			<station>DutyFreeShopping</station>
+			<station>AirTerminal</station>
+			<station>SecureBoardingGate</station>
+			<station>InternationalPlane</station>
+		</sequence>
+	</passenger>
+	<passenger>
+		<label>Mike Probst</label>
+		<processtime>8</processtime>
+		<speed>14</speed>
+		<luggage_description>blauer Travelrucksack</luggage_description>
+		<flightnumber>LH 6315</flightnumber>
+		<onlinecheckin>false</onlinecheckin>
+		<randomized>false</randomized>
+		<sequence>
+			<station>Start_Station</station>
+			<station>PublicTerminal</station>
+			<station>Check-InDesk</station>
+			<station>PublicTerminal</station>
+			<station>Shopping</station>
+			<station>PublicTerminal</station>
+			<station>{Security-Check_1, Security-Check_2}</station>
+			<station>AirTerminal</station>
+			<station>SecureBoardingGate</station>
+			<station>InternationalPlane</station>
+		</sequence>
+	</passenger>
+	<passenger>
+		<label>Anke Faust</label>
+		<processtime>8</processtime>
+		<speed>9</speed>
+		<luggage_description>grauerTravelrucksack</luggage_description>
+		<flightnumber>LH 6315</flightnumber>
+		<onlinecheckin>false</onlinecheckin>
+		<randomized>false</randomized>
+		<sequence>
+			<station>Start_Station</station>
+			<station>PublicTerminal</station>
+			<station>Check-InDesk</station>
+			<station>PublicTerminal</station>
+			<station>{Security-Check_1, Security-Check_2}</station>
+			<station>AirTerminal</station>
+			<station>DutyFreeShopping</station>
+			<station>AirTerminal</station>
+			<station>Gastronomy_2</station>
+			<station>AirTerminal</station>
+			<station>SecureBoardingGate</station>
+			<station>InternationalPlane</station>
+		</sequence>
+	</passenger>
+</settings>

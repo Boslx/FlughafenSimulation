@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<settings>
+	<plane>
+		<label>SchengenPlane</label>
+		<x_position>1100</x_position>
+		<y_position>150</y_position>
+		<view>
+			<image>symbols/stations/72x72/PlaneTakeOff.png</image>
+		</view>
+		<inqueue>
+			<x_position>1120</x_position>
+			<y_position>110</y_position>
+		</inqueue>
+		<outqueue>
+			<x_position>1120</x_position>
+			<y_position>230</y_position>
+		</outqueue>
+	</plane>
+	<plane>
+		<label>InternationalPlane</label>
+		<x_position>1100</x_position>
+		<y_position>450</y_position>
+		<view>
+			<image>symbols/stations/72x72/PlaneTakeOff.png</image>
+		</view>
+		<inqueue>
+			<x_position>1120</x_position>
+			<y_position>410</y_position>
+		</inqueue>
+		<outqueue>
+			<x_position>1120</x_position>
+			<y_position>530</y_position>
+		</outqueue>
+	</plane>
+</settings>

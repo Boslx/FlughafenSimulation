@@ -1,0 +1,42 @@
+{
+  "settings": {
+    "checkindesk": [
+      {
+        "label": "Check-InDesk",
+        "troughput": "2",
+        "x_position": "300",
+        "y_position": "100",
+        "view": {
+          "image": "symbols/stations/72x72/CheckIn.png"
+        },
+        "inqueue": {
+          "x_position": "320",
+          "y_position": "40"
+        },
+        "outqueue": {
+          "x_position": "320",
+          "y_position": "180"
+        }
+      }
+    ],
+    "onlinecheckin": [
+      {
+        "label": "OnlineCheckIn",
+        "troughput": "2",
+        "x_position": "300",
+        "y_position": "500",
+        "view": {
+          "image": "symbols/stations/72x72/Luggage.png"
+        },
+        "inqueue": {
+          "x_position": "320",
+          "y_position": "440"
+        },
+        "outqueue": {
+          "x_position": "320",
+          "y_position": "580"
+        }
+      }
+    ]
+  }
+}

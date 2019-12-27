@@ -1,0 +1,34 @@
+{
+  "settings": {
+    "plane": [
+      {
+        "label": "SchengenPlane",
+        "x_position": "1100",
+        "y_position": "150",
+        "view": { "image": "symbols/stations/72x72/PlaneTakeOff.png" },
+        "inqueue": {
+          "x_position": "1120",
+          "y_position": "110"
+        },
+        "outqueue": {
+          "x_position": "1120",
+          "y_position": "230"
+        }
+      },
+      {
+        "label": "InternationalPlane",
+        "x_position": "1100",
+        "y_position": "450",
+        "view": { "image": "symbols/stations/72x72/PlaneTakeOff.png" },
+        "inqueue": {
+          "x_position": "1120",
+          "y_position": "410"
+        },
+        "outqueue": {
+          "x_position": "1120",
+          "y_position": "530"
+        }
+      }
+    ]
+  }
+}

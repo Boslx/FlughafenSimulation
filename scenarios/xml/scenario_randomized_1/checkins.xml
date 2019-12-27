@@ -1,0 +1,37 @@
+<?xml version="1.0"?>
+<settings>
+    <checkindesk>
+        <label>Check-InDesk</label>
+        <troughput>2</troughput>
+        <x_position>300</x_position>
+        <y_position>100</y_position>
+        <view>
+            <image>symbols/stations/72x72/CheckIn.png</image>
+        </view>
+        <inqueue>
+            <x_position>320</x_position>
+            <y_position>40</y_position>
+        </inqueue>
+        <outqueue>
+            <x_position>320</x_position>
+            <y_position>180</y_position>
+        </outqueue>
+    </checkindesk>
+    <onlinecheckin>
+        <label>OnlineCheckIn</label>
+        <troughput>2</troughput>
+        <x_position>300</x_position>
+        <y_position>500</y_position>
+        <view>
+            <image>symbols/stations/72x72/Luggage.png</image>
+        </view>
+        <inqueue>
+            <x_position>320</x_position>
+            <y_position>440</y_position>
+        </inqueue>
+        <outqueue>
+            <x_position>320</x_position>
+            <y_position>580</y_position>
+        </outqueue>
+    </onlinecheckin>
+</settings>

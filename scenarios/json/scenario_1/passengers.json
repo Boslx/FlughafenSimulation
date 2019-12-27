@@ -1,0 +1,253 @@
+{
+  "settings": {
+    "passenger": [
+      {
+        "label": "Cordula Grün",
+        "processtime": "12",
+        "speed": "1",
+        "isHungry": "true",
+        "wouldLikeToShop": "true",
+        "luggage_description": "roter Koffer",
+        "flightnumber": "LH 4234",
+        "onlinecheckin": "false",
+        "randomized": "true",
+        "sequence": [
+          "Start_Station",
+          "PublicTerminal",
+          "{Security-Check_1, Security-Check_2}",
+          "AirTerminal",
+          "BoardingGate",
+          "SchengenPlane"
+        ]
+      },
+      {
+        "label": "Max Mustermann",
+        "processtime": "30",
+        "speed": "1",
+        "isHungry": "true",
+        "wouldLikeToShop": "true",
+        "luggage_description": "Orangener Koffer",
+        "flightnumber": "LH 4234",
+        "onlinecheckin": "false",
+        "randomized": "true",
+        "sequence": [
+          "Start_Station",
+          "PublicTerminal",
+          "{Security-Check_1, Security-Check_2}",
+          "AirTerminal",
+          "BoardingGate",
+          "SchengenPlane"
+        ]
+      },
+      {
+        "label": "Erika Mustermann",
+        "processtime": "20",
+        "speed": "1",
+        "isHungry": "true",
+        "wouldLikeToShop": "true",
+        "luggage_description": "Lila Travelrucksack",
+        "flightnumber": "LH 4234",
+        "onlinecheckin": "false",
+        "randomized": "true",
+        "sequence": [
+          "Start_Station",
+          "PublicTerminal",
+          "{Security-Check_1, Security-Check_2}",
+          "AirTerminal",
+          "BoardingGate",
+          "SchengenPlane"
+        ]
+      },
+      {
+        "label": "Gregor Dietrich",
+        "processtime": "2",
+        "speed": "25",
+        "isHungry": "true",
+        "wouldLikeToShop": "true",
+        "luggage_description": "roter Koffer",
+        "flightnumber": "LH 4234",
+        "onlinecheckin": "true",
+        "randomized": "true",
+        "sequence": [
+          "Start_Station",
+          "PublicTerminal",
+          "{Security-Check_1, Security-Check_2}",
+          "AirTerminal",
+          "BoardingGate",
+          "SchengenPlane"
+        ]
+      },
+      {
+        "label": "Peter Peter",
+        "processtime": "25",
+        "speed": "3",
+        "isHungry": "false",
+        "wouldLikeToShop": "false",
+        "luggage_description": "gelb Koffer",
+        "flightnumber": "FR 1938",
+        "onlinecheckin": "true",
+        "randomized": "true",
+        "sequence": [
+          "Start_Station",
+          "PublicTerminal",
+          "{Security-Check_1, Security-Check_2}",
+          "AirTerminal",
+          "SecureBoardingGate",
+          "InternationalPlane"
+        ]
+      },
+      {
+        "label": "Hans Peter",
+        "processtime": "5",
+        "speed": "13",
+        "isHungry": "false",
+        "wouldLikeToShop": "true",
+        "luggage_description": "lila Tasche",
+        "flightnumber": "FR 1938",
+        "onlinecheckin": "false",
+        "randomized": "true",
+        "sequence": [
+          "Start_Station",
+          "PublicTerminal",
+          "{Security-Check_1, Security-Check_2}",
+          "AirTerminal",
+          "SecureBoardingGate",
+          "InternationalPlane"
+        ]
+      },
+      {
+        "label": "Hans Peter",
+        "processtime": "5",
+        "speed": "13",
+        "isHungry": "false",
+        "wouldLikeToShop": "true",
+        "luggage_description": "gruener Koffer",
+        "flightnumber": "FR 1938",
+        "onlinecheckin": "false",
+        "randomized": "true",
+        "sequence": [
+          "Start_Station",
+          "PublicTerminal",
+          "{Security-Check_1, Security-Check_2}",
+          "AirTerminal",
+          "SecureBoardingGate",
+          "InternationalPlane"
+        ]
+      },
+      {
+        "label": "Dennis Peter",
+        "processtime": "5",
+        "speed": "40",
+        "isHungry": "true",
+        "wouldLikeToShop": "false",
+        "luggage_description": "gruener Koffer",
+        "flightnumber": "FR 1938",
+        "onlinecheckin": "false",
+        "randomized": "true",
+        "sequence": [
+          "Start_Station",
+          "PublicTerminal",
+          "{Security-Check_1, Security-Check_2}",
+          "AirTerminal",
+          "SecureBoardingGate",
+          "InternationalPlane"
+        ]
+      },
+      {
+        "label": "Siegfried Dichter",
+        "processtime": "5",
+        "speed": "10",
+        "isHungry": "true",
+        "wouldLikeToShop": "true",
+        "luggage_description": "grauer Koffer",
+        "flightnumber": "FR 1938",
+        "onlinecheckin": "false",
+        "randomized": "true",
+        "sequence": [
+          "Start_Station",
+          "PublicTerminal",
+          "{Security-Check_1, Security-Check_2}",
+          "AirTerminal",
+          "SecureBoardingGate",
+          "InternationalPlane"
+        ]
+      },
+      {
+        "label": "Cordula Gelb",
+        "processtime": "5",
+        "speed": "6",
+        "isHungry": "true",
+        "wouldLikeToShop": "true",
+        "luggage_description": "roter Koffer",
+        "flightnumber": "LH 4234",
+        "onlinecheckin": "false",
+        "randomized": "true",
+        "sequence": [
+          "Start_Station",
+          "PublicTerminal",
+          "{Security-Check_1, Security-Check_2}",
+          "AirTerminal",
+          "BoardingGate",
+          "SchengenPlane"
+        ]
+      },
+      {
+        "label": "Jochen Schweiz",
+        "processtime": "5",
+        "speed": "7",
+        "isHungry": "true",
+        "wouldLikeToShop": "false",
+        "luggage_description": "weißer Koffer",
+        "flightnumber": "LH 4234",
+        "onlinecheckin": "false",
+        "randomized": "true",
+        "sequence": [
+          "Start_Station",
+          "PublicTerminal",
+          "{Security-Check_1, Security-Check_2}",
+          "AirTerminal",
+          "BoardingGate",
+          "SchengenPlane"
+        ]
+      },
+      {
+        "label": "Mike Probst",
+        "processtime": "8",
+        "speed": "10",
+        "isHungry": "false",
+        "wouldLikeToShop": "true",
+        "luggage_description": "blauer Travelrucksack",
+        "flightnumber": "LH 4234",
+        "onlinecheckin": "false",
+        "randomized": "true",
+        "sequence": [
+          "Start_Station",
+          "PublicTerminal",
+          "{Security-Check_1, Security-Check_2}",
+          "AirTerminal",
+          "BoardingGate",
+          "SchengenPlane"
+        ]
+      },
+      {
+        "label": "Anke Faust",
+        "processtime": "15",
+        "speed": "9",
+        "isHungry": "true",
+        "wouldLikeToShop": "true",
+        "luggage_description": "grauerTravelrucksack",
+        "flightnumber": "FR 1938",
+        "onlinecheckin": "false",
+        "randomized": "true",
+        "sequence": [
+          "Start_Station",
+          "PublicTerminal",
+          "{Security-Check_1, Security-Check_2}",
+          "AirTerminal",
+          "SecureBoardingGate",
+          "InternationalPlane"
+        ]
+      }
+    ]
+  }
+}

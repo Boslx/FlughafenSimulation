@@ -1,0 +1,48 @@
+{
+  "settings": {
+    "securityCheck": [
+      {
+        "label": "Security-Check_1",
+        "troughput": "1",
+        "x_position": "500",
+        "y_position": "200",
+        "view": {
+          "image": "symbols/stations/72x72/SecurityCheck.png"
+        },
+        "inqueue": [
+          {
+            "x_position": "520",
+            "y_position": "140"
+          }
+        ],
+        "outqueue": [
+          {
+            "x_position": "520",
+            "y_position": "280"
+          }
+        ]
+      },
+      {
+        "label": "Security-Check_2",
+        "troughput": "1",
+        "x_position": "500",
+        "y_position": "400",
+        "view": {
+          "image": "symbols/stations/72x72/SecurityCheck.png"
+        },
+        "inqueue": [
+          {
+            "x_position": "520",
+            "y_position": "340"
+          }
+        ],
+        "outqueue": [
+          {
+            "x_position": "520",
+            "y_position": "480"
+          }
+        ]
+      }
+    ]
+  }
+}

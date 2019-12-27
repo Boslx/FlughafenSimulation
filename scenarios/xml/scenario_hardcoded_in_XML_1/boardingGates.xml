@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<settings>
+	<internationalBoardingGate>
+		<label>SecureBoardingGate</label>
+		<troughput>2</troughput>
+		<x_position>900</x_position>
+		<y_position>300</y_position>
+		<view>
+			<image>symbols/stations/72x72/Passport.png</image>
+		</view>
+		<inqueue>
+			<x_position>880</x_position>
+			<y_position>240</y_position>
+		</inqueue>
+		<inqueue>
+			<x_position>920</x_position>
+			<y_position>240</y_position>
+		</inqueue>
+		<inqueue>
+			<x_position>960</x_position>
+			<y_position>240</y_position>
+		</inqueue>
+		<outqueue>
+			<x_position>920</x_position>
+			<y_position>380</y_position>
+		</outqueue>
+	</internationalBoardingGate>
+</settings>

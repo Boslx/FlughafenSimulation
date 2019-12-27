@@ -1,0 +1,250 @@
+<?xml version="1.0"?>
+<settings>
+	<passenger>
+		<label>Cordula Grün</label>
+		<processtime>4</processtime>
+		<speed>11</speed>
+		<isHungry>true</isHungry>
+		<wouldLikeToShop>true</wouldLikeToShop>
+		<luggage_description>roter Koffer</luggage_description>
+		<flightnumber>LH 4234</flightnumber>
+		<onlinecheckin>true</onlinecheckin>
+		<randomized>true</randomized>
+		<sequence>
+			<station>Start_Station</station>
+			<station>PublicTerminal</station>
+			<station>{Security-Check_1, Security-Check_2}</station>
+			<station>AirTerminal</station>
+			<station>BoardingGate</station>
+			<station>SchengenPlane</station>
+		</sequence>
+	</passenger>
+	<passenger>
+		<label>Max Mustermann</label>
+		<processtime>16</processtime>
+		<speed>3</speed>
+		<isHungry>true</isHungry>
+		<wouldLikeToShop>false</wouldLikeToShop>
+		<luggage_description>Orangener Koffer</luggage_description>
+		<flightnumber>LH 4234</flightnumber>
+		<onlinecheckin>false</onlinecheckin>
+		<randomized>true</randomized>
+		<sequence>
+			<station>Start_Station</station>
+			<station>PublicTerminal</station>
+			<station>{Security-Check_1, Security-Check_2}</station>
+			<station>AirTerminal</station>
+			<station>BoardingGate</station>
+			<station>SchengenPlane</station>
+		</sequence>
+	</passenger>
+	<passenger>
+		<label>Erika Mustermann</label>
+		<processtime>1</processtime>
+		<speed>15</speed>
+		<isHungry>false</isHungry>
+		<wouldLikeToShop>true</wouldLikeToShop>
+		<luggage_description>Lila Travelrucksack</luggage_description>
+		<flightnumber>LH 4234</flightnumber>
+		<onlinecheckin>false</onlinecheckin>
+		<randomized>true</randomized>
+		<sequence>
+			<station>Start_Station</station>
+			<station>PublicTerminal</station>
+			<station>{Security-Check_1, Security-Check_2}</station>
+			<station>AirTerminal</station>
+			<station>BoardingGate</station>
+			<station>SchengenPlane</station>
+		</sequence>
+	</passenger>
+	<passenger>
+		<label>Gregor Dietrich</label>
+		<processtime>6</processtime>
+		<speed>19</speed>
+		<isHungry>true</isHungry>
+		<wouldLikeToShop>false</wouldLikeToShop>
+		<luggage_description>roter Koffer</luggage_description>
+		<flightnumber>LH 4234</flightnumber>
+		<onlinecheckin>true</onlinecheckin>
+		<randomized>true</randomized>
+		<sequence>
+			<station>Start_Station</station>
+			<station>PublicTerminal</station>
+			<station>{Security-Check_1, Security-Check_2}</station>
+			<station>AirTerminal</station>
+			<station>BoardingGate</station>
+			<station>SchengenPlane</station>
+		</sequence>
+	</passenger>
+	<passenger>
+		<label>Peter Peter</label>
+		<processtime>11</processtime>
+		<speed>12</speed>
+		<isHungry>false</isHungry>
+		<wouldLikeToShop>false</wouldLikeToShop>
+		<luggage_description>gelb Koffer</luggage_description>
+		<flightnumber>FR 1938</flightnumber>
+		<onlinecheckin>false</onlinecheckin>
+		<randomized>true</randomized>
+		<sequence>
+			<station>Start_Station</station>
+			<station>PublicTerminal</station>
+			<station>{Security-Check_1, Security-Check_2}</station>
+			<station>AirTerminal</station>
+			<station>SecureBoardingGate</station>
+			<station>InternationalPlane</station>
+		</sequence>
+	</passenger>
+	<passenger>
+		<label>Hans Peter</label>
+		<processtime>5</processtime>
+		<speed>4</speed>
+		<isHungry>true</isHungry>
+		<wouldLikeToShop>true</wouldLikeToShop>
+		<luggage_description>lila Tasche</luggage_description>
+		<flightnumber>FR 1938</flightnumber>
+		<onlinecheckin>false</onlinecheckin>
+		<randomized>true</randomized>
+		<sequence>
+			<station>Start_Station</station>
+			<station>PublicTerminal</station>
+			<station>{Security-Check_1, Security-Check_2}</station>
+			<station>AirTerminal</station>
+			<station>SecureBoardingGate</station>
+			<station>InternationalPlane</station>
+		</sequence>
+	</passenger>
+	<passenger>
+		<label>Santa Claus</label>
+		<processtime>2</processtime>
+		<speed>13</speed>
+		<isHungry>true</isHungry>
+		<wouldLikeToShop>true</wouldLikeToShop>
+		<luggage_description>gruener Koffer</luggage_description>
+		<flightnumber>FR 1938</flightnumber>
+		<onlinecheckin>true</onlinecheckin>
+		<randomized>true</randomized>
+		<sequence>
+			<station>Start_Station</station>
+			<station>PublicTerminal</station>
+			<station>{Security-Check_1, Security-Check_2}</station>
+			<station>AirTerminal</station>
+			<station>SecureBoardingGate</station>
+			<station>InternationalPlane</station>
+		</sequence>
+	</passenger>
+	<passenger>
+		<label>Dennis Peter</label>
+		<processtime>5</processtime>
+		<speed>18</speed>
+		<isHungry>false</isHungry>
+		<wouldLikeToShop>false</wouldLikeToShop>
+		<luggage_description>gruener Koffer</luggage_description>
+		<flightnumber>FR 1938</flightnumber>
+		<onlinecheckin>false</onlinecheckin>
+		<randomized>true</randomized>
+		<sequence>
+			<station>Start_Station</station>
+			<station>PublicTerminal</station>
+			<station>{Security-Check_1, Security-Check_2}</station>
+			<station>AirTerminal</station>
+			<station>SecureBoardingGate</station>
+			<station>InternationalPlane</station>
+		</sequence>
+	</passenger>
+	<passenger>
+		<label>Siegfried Dichter</label>
+		<processtime>10</processtime>
+		<speed>3</speed>
+		<isHungry>true</isHungry>
+		<wouldLikeToShop>true</wouldLikeToShop>
+		<luggage_description>grauer Koffer</luggage_description>
+		<flightnumber>FR 1938</flightnumber>
+		<onlinecheckin>false</onlinecheckin>
+		<randomized>true</randomized>
+		<sequence>
+			<station>Start_Station</station>
+			<station>PublicTerminal</station>
+			<station>{Security-Check_1, Security-Check_2}</station>
+			<station>AirTerminal</station>
+			<station>SecureBoardingGate</station>
+			<station>InternationalPlane</station>
+		</sequence>
+	</passenger>
+	<passenger>
+		<label>Cordula Gelb</label>
+		<processtime>5</processtime>
+		<speed>6</speed>
+		<isHungry>true</isHungry>
+		<wouldLikeToShop>true</wouldLikeToShop>
+		<luggage_description>roter Koffer</luggage_description>
+		<flightnumber>LH 4234</flightnumber>
+		<onlinecheckin>true</onlinecheckin>
+		<randomized>true</randomized>
+		<sequence>
+			<station>Start_Station</station>
+			<station>PublicTerminal</station>
+			<station>{Security-Check_1, Security-Check_2}</station>
+			<station>AirTerminal</station>
+			<station>BoardingGate</station>
+			<station>SchengenPlane</station>
+		</sequence>
+	</passenger>
+	<passenger>
+		<label>Jochen Schweiz</label>
+		<processtime>17</processtime>
+		<speed>6</speed>
+		<isHungry>false</isHungry>
+		<wouldLikeToShop>false</wouldLikeToShop>
+		<luggage_description>weißer Koffer</luggage_description>
+		<flightnumber>LH 4234</flightnumber>
+		<onlinecheckin>true</onlinecheckin>
+		<randomized>true</randomized>
+		<sequence>
+			<station>Start_Station</station>
+			<station>PublicTerminal</station>
+			<station>{Security-Check_1, Security-Check_2}</station>
+			<station>AirTerminal</station>
+			<station>BoardingGate</station>
+			<station>SchengenPlane</station>
+		</sequence>
+	</passenger>
+	<passenger>
+		<label>Mike Probst</label>
+		<processtime>1</processtime>
+		<speed>9</speed>
+		<isHungry>false</isHungry>
+		<wouldLikeToShop>true</wouldLikeToShop>
+		<luggage_description>blauer Travelrucksack</luggage_description>
+		<flightnumber>LH 4234</flightnumber>
+		<onlinecheckin>false</onlinecheckin>
+		<randomized>true</randomized>
+		<sequence>
+			<station>Start_Station</station>
+			<station>PublicTerminal</station>
+			<station>{Security-Check_1, Security-Check_2}</station>
+			<station>AirTerminal</station>
+			<station>BoardingGate</station>
+			<station>SchengenPlane</station>
+		</sequence>
+	</passenger>
+	<passenger>
+		<label>Anke Faust</label>
+		<processtime>11</processtime>
+		<speed>4</speed>
+		<isHungry>true</isHungry>
+		<wouldLikeToShop>true</wouldLikeToShop>
+		<luggage_description>grauerTravelrucksack</luggage_description>
+		<flightnumber>FR 1938</flightnumber>
+		<onlinecheckin>false</onlinecheckin>
+		<randomized>true</randomized>
+		<sequence>
+			<station>Start_Station</station>
+			<station>PublicTerminal</station>
+			<station>{Security-Check_1, Security-Check_2}</station>
+			<station>AirTerminal</station>
+			<station>SecureBoardingGate</station>
+			<station>InternationalPlane</station>
+		</sequence>
+	</passenger>
+</settings>

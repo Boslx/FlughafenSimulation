@@ -1,0 +1,76 @@
+{
+  "settings": {
+    "gastronomy": [
+      {
+        "label": "Gastronomy_1",
+        "troughput": "4",
+        "dutyFree": "false",
+        "revenuePerCostumer": "10",
+        "x_position": "100",
+        "y_position": "100",
+        "view": { "image": "symbols/stations/72x72/Restaurant.png" },
+        "inqueue": {
+          "x_position": "120",
+          "y_position": "40"
+        },
+        "outqueue": {
+          "x_position": "120",
+          "y_position": "180"
+        }
+      },
+      {
+        "label": "Gastronomy_2",
+        "troughput": "4",
+        "dutyFree": "true",
+        "revenuePerCostumer": "10",
+        "x_position": "700",
+        "y_position": "500",
+        "view": { "image": "symbols/stations/72x72/Restaurant.png" },
+        "inqueue": {
+          "x_position": "720",
+          "y_position": "440"
+        },
+        "outqueue": {
+          "x_position": "720",
+          "y_position": "580"
+        }
+      }
+    ],
+    "shop": [
+      {
+        "label": "Shopping",
+        "troughput": "4",
+        "dutyFree": "false",
+        "revenuePerCostumer": "5",
+        "x_position": "100",
+        "y_position": "500",
+        "view": { "image": "symbols/stations/72x72/Shopping.png" },
+        "inqueue": {
+          "x_position": "120",
+          "y_position": "440"
+        },
+        "outqueue": {
+          "x_position": "120",
+          "y_position": "580"
+        }
+      },
+      {
+        "label": "DutyFreeShopping",
+        "troughput": "4",
+        "dutyFree": "true",
+        "revenuePerCostumer": "5",
+        "x_position": "700",
+        "y_position": "100",
+        "view": { "image": "symbols/stations/72x72/Shopping.png" },
+        "inqueue": {
+          "x_position": "720",
+          "y_position": "40"
+        },
+        "outqueue": {
+          "x_position": "720",
+          "y_position": "180"
+        }
+      }
+    ]
+  }
+}

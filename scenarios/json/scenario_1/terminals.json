@@ -1,0 +1,36 @@
+{
+  "settings": {
+    "terminal": [
+      {
+        "label": "PublicTerminal",
+        "troughput": "100",
+        "x_position": "200",
+        "y_position": "300",
+        "view": { "image": "symbols/stations/72x72/FlightInformation.png" },
+        "inqueue": {
+          "x_position": "220",
+          "y_position": "240"
+        },
+        "outqueue": {
+          "x_position": "220",
+          "y_position": "380"
+        }
+      },
+      {
+        "label": "AirTerminal",
+        "troughput": "100",
+        "x_position": "700",
+        "y_position": "300",
+        "view": { "image": "symbols/stations/72x72/FlightInformation.png" },
+        "inqueue": {
+          "x_position": "720",
+          "y_position": "240"
+        },
+        "outqueue": {
+          "x_position": "720",
+          "y_position": "380"
+        }
+      }
+    ]
+  }
+}
